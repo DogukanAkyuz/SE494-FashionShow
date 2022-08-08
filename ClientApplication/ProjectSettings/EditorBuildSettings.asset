@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: ff0add117f9ecde439f08347aa9516fb
+  - enabled: 1
+    path: Assets/Scenes/AvatarScene.unity
+    guid: ec45da48ffef96e47afb20b12303c321
+  - enabled: 1
+    path: Assets/Scenes/UserInfoScene.unity
+    guid: 11d4913bd15e43243a4299eb692125ae
+  - enabled: 1
+    path: Assets/Scenes/InstructionsScene.unity
+    guid: ada130f08035d7d4fb5e4175b547f4ea
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: ec699bf292877254788bec1883522bec
+  - enabled: 1
+    path: Assets/Scenes/FashionShowScene.unity
+    guid: 37fc4a633eb113544a1176aa2947fd9e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 273224c71e6eeac47a8b093554da0d1d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 01789d3c79a545b43ac0a74e898c1e50, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: d7ad2c08be65b1b41ad5d081c9b8c145, type: 2}
